@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.WebSocket", "Demo.WebSocket\Demo.WebSocket.csproj", "{3FF596DA-8D04-4D30-8BA9-2C9C374BF84A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{62EFCA5A-CC1E-42E5-A55C-BBAC500A3798}"
+	ProjectSection(SolutionItems) = preProject
+		readme.md = readme.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FF596DA-8D04-4D30-8BA9-2C9C374BF84A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FF596DA-8D04-4D30-8BA9-2C9C374BF84A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FF596DA-8D04-4D30-8BA9-2C9C374BF84A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FF596DA-8D04-4D30-8BA9-2C9C374BF84A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8296E66-EA7D-4A92-A39A-E002EFBCA79C}
+	EndGlobalSection
+EndGlobal
